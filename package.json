@@ -1,16 +1,24 @@
 {
-  "name": "nextjs-test",
+  "name": "next-js-xkcd",
   "version": "1.0.0",
-  "description": "",
+  "description": "App will display current and previous 10 comics from XKCD external XKCD API",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercole-401-advanced-javascript/next-js-navigator.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petercole-401-advanced-javascript/next-js-navigator/issues"
+  },
+  "homepage": "https://github.com/petercole-401-advanced-javascript/next-js-navigator#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "next": "^9.3.4",
