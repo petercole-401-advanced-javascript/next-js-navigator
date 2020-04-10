@@ -5,7 +5,7 @@
 - The app will display the most recent XKCD comic and have links to previous 10 comics
 
 ## Develop
-- copy repository
+- copy repository to local
 - `npm i` to install dependencies locally
 - `npm run dev` and open `localhost:3000` to test
 
