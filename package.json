@@ -20,9 +20,13 @@
   },
   "homepage": "https://github.com/petercole-401-advanced-javascript/next-js-navigator#readme",
   "dependencies": {
+    "@ampproject/toolbox-validator-rules": "^2.5.4",
     "axios": "^0.19.2",
-    "next": "^9.3.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "cross-fetch": "^3.0.6",
+    "next": "^9.5.5",
+    "node-fetch": "^2.6.1",
+    "object-path": "^0.11.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
