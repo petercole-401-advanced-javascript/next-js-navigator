@@ -21,7 +21,7 @@
   "homepage": "https://github.com/petercole-401-advanced-javascript/next-js-navigator#readme",
   "dependencies": {
     "@ampproject/toolbox-validator-rules": "^2.5.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cross-fetch": "^3.0.6",
     "next": "^9.5.5",
     "node-fetch": "^2.6.1",
